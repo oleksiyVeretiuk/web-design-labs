@@ -24,7 +24,7 @@ body{
     background-size: 300px 300px;
 }
 .pepper-image:hover {
-	background-image: none;
+	background-image: url('../images/hot-pepper.svg');
 	background-color: coral;
 }
 .pepper-text {
